@@ -2,7 +2,7 @@
 
 SAFe is a framework for scaling agile principles and practices across large enterprises. While agile works well for smaller teams, SAFe extends these principles to multiple teams, departments or even the entire organization. SAFe is a way to apply agile to enterprise scale, aligning teams to common goals, coordinating releases and enabling continuous delivery of value.
 
-## Core Components
+## Core Components - Levels
 
 SAFe is built around 4 levels, depending on the size and needs of the organization. These levels aid organizations in the efficient adoption of agile to deliver on the value of corporate goals.
 
@@ -65,3 +65,29 @@ Key characteristics of the Portfolio level include:
 * High-level roles such as **Enterprise Architect**, **Business Owners**, and **Lean Portfolio Management** guide execution.
 * Uses **Lean Governance** to ensure that delivery stays within budget and aligns with compliance and risk management goals.
 * Measures outcomes using **Lean Metrics** such as *flow, outcome KPIs, and OKRs*.
+
+## Key Elements in SAFe
+
+### Agile Release Train (ART)
+
+This is a team of agile teams (about 50-125 people) that plan, commit and deliver together on a fixed schedule known as a *Program Increment (PI)*. ART aligns people to a shared mission and cadence.
+
+### Program Increment (PI)
+
+A timebox (typically 8-12 weeks) where teams plan, build and deliver together. This starts with *PI Planning* which is a big-room event where teams align.
+
+### Roles in SAFe
+
+**Release Train Engineer (RTE)**: Scrum Master for the ART, *facilitating* PI planning and syncs.
+
+**Product Manager**: Owns the program backlog and *prioritizes* features for the ART.
+
+**System Architect/Engineer**: Provides technical guidance for the ART.
+
+**Business Owners**: Stakeholders who evaluate and approve PI objectives.
+
+**Scrum Master**: A facilitator and leader in a Scrum team to help the team achieve its goals.
+
+**Product Owner** Owns the product backlog and *prioritizes* features for the product.
+
+**Agile Team Member**: A member of a cross-functional group with the skills to define, build, test and deliver the product features.
