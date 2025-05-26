@@ -35,6 +35,3 @@
 .vscode/
 bin/
 obj/
-
-# Entry points
-main.*
